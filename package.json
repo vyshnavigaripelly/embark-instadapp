@@ -10,7 +10,7 @@
   "license": "ISC",
   "homepage": "",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "date-fns": "^2.0.0-alpha.11",
     "npm": "^6.2.0",
     "react": "^16.3.2",
